@@ -20,6 +20,7 @@ Contributors - [Sarika Nangare](https://github.com/saru712)
 - **NumberOfTime60-89DaysPastDueNotWorse** :Number of times borrower has been 60-89 days past due but no worse in the last 2 years
 - **NumberOfDependents** :Number of dependents in family excluding themselves
 
+## Problem Statement:
 - Need to predict if somebody will experience financial distress in the next two years
 
 ## ML Algorithm: 
